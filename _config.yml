@@ -1,0 +1,16 @@
+title: golithe
+description: ML engineer working on computer vision and GeoAI. Notes on the engineering that makes models usable.
+baseurl: ""
+url: "https://golithe.dev"
+markdown: kramdown
+
+github_username: golithe
+linkedin_username: golithe
+
+header_pages:
+  - about.markdown
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
